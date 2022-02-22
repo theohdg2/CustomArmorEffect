@@ -1,0 +1,7 @@
+name: CustomArmorEffect
+version: 1.0.0
+api: 4.0.0
+main: EffectArmor\theohdg2\EffectArmor
+authors:
+  - Theohdg2
+  - Achedon
